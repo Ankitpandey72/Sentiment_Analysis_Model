@@ -1,0 +1,16 @@
+{
+  "name": "mern-sentiment",
+  "version": "1.0.0",
+  "description": "server for sentiment pridiction model",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.14.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
