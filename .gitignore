@@ -1,3 +1,5 @@
-/node-module
+/node-modules
+/client/node_modules
+/mern-sentiment/node_modules
 /sentiment_model.pkl
 /vectorizer.pkl
